@@ -17,7 +17,7 @@
 
 ## Resources:
 This app was created using the following resources:
-[Hacking with Swift: SwiftUI #16](https://www.hackingwithswift.com/100/swiftui/20)
-[Hacking with Swift: SwiftUI #17](https://www.hackingwithswift.com/100/swiftui/21)
-[Hacking with Swift: SwiftUI #19](https://www.hackingwithswift.com/100/swiftui/22)
+[Hacking with Swift: SwiftUI Day 20](https://www.hackingwithswift.com/100/swiftui/20)
+[Hacking with Swift: SwiftUI Day 21](https://www.hackingwithswift.com/100/swiftui/21)
+[Hacking with Swift: SwiftUI Day 22](https://www.hackingwithswift.com/100/swiftui/22)
 
