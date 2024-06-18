@@ -1,4 +1,5 @@
-# This is a fun and educational SwiftUI app that tests your knowledge of flags from around the world!
+## GuessTheFlag App
+ This is a fun and educational SwiftUI app that tests your knowledge of flags from around the world!
 
 ## Features:
 - Guess the flag based on the provided country name.
